@@ -1,0 +1,9 @@
+D:\Прата С. Язык программирования С++. Лекции и упражнения (+CD, 2011)\Lab_1\Lab_1\bin\Debug\Lab_1.exe.config
+D:\Прата С. Язык программирования С++. Лекции и упражнения (+CD, 2011)\Lab_1\Lab_1\bin\Debug\Lab_1.exe
+D:\Прата С. Язык программирования С++. Лекции и упражнения (+CD, 2011)\Lab_1\Lab_1\bin\Debug\Lab_1.pdb
+D:\Прата С. Язык программирования С++. Лекции и упражнения (+CD, 2011)\Lab_1\Lab_1\obj\Debug\Lab_1.csprojResolveAssemblyReference.cache
+D:\Прата С. Язык программирования С++. Лекции и упражнения (+CD, 2011)\Lab_1\Lab_1\obj\Debug\Lab_1.exe
+D:\Прата С. Язык программирования С++. Лекции и упражнения (+CD, 2011)\Lab_1\Lab_1\obj\Debug\Lab_1.pdb
+E:\БКИТ\Lab_1\Lab_1\bin\Debug\Lab_1.exe.config
+E:\БКИТ\Lab_1\Lab_1\obj\Debug\Lab_1.exe
+E:\БКИТ\Lab_1\Lab_1\obj\Debug\Lab_1.pdb
