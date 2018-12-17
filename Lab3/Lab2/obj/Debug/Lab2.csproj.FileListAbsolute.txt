@@ -1,0 +1,12 @@
+D:\Учеба\2 курс\Лабы БКИТ\Lab2\Lab2\bin\Debug\Lab2.exe.config
+D:\Учеба\2 курс\Лабы БКИТ\Lab2\Lab2\bin\Debug\Lab2.exe
+D:\Учеба\2 курс\Лабы БКИТ\Lab2\Lab2\bin\Debug\Lab2.pdb
+D:\Учеба\2 курс\Лабы БКИТ\Lab2\Lab2\obj\Debug\Lab2.csprojResolveAssemblyReference.cache
+D:\Учеба\2 курс\Лабы БКИТ\Lab2\Lab2\obj\Debug\Lab2.exe
+D:\Учеба\2 курс\Лабы БКИТ\Lab2\Lab2\obj\Debug\Lab2.pdb
+D:\Учеба\2 курс\Лабы БКИТ\Lab3\Lab2\bin\Debug\Lab2.exe.config
+D:\Учеба\2 курс\Лабы БКИТ\Lab3\Lab2\obj\Debug\Lab2.exe
+D:\Учеба\2 курс\Лабы БКИТ\Lab3\Lab2\obj\Debug\Lab2.pdb
+D:\Учеба\2 курс\Лабы БКИТ\Lab3\Lab2\bin\Debug\Lab2.exe
+D:\Учеба\2 курс\Лабы БКИТ\Lab3\Lab2\bin\Debug\Lab2.pdb
+D:\Учеба\2 курс\Лабы БКИТ\Lab3\Lab2\obj\Debug\Lab2.csprojResolveAssemblyReference.cache
